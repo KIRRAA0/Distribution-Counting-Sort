@@ -5,6 +5,7 @@
 
 Source Code: Dive into the Python implementation of Distribution Counting Sort. Understand the logic behind counting frequencies, calculating cumulative sums, and the reverse iteration for sorting.
 https://youtu.be/5sA3tFF7HXY
+
 🎯 Key Features:
 
 Efficiency: Experience the algorithm's efficiency with O(n+k) time complexity.
@@ -15,6 +16,7 @@ Clone or fork the repository to incorporate Distribution Counting Sort into your
 📊 Algorithm Analysis:
 
 Explore insights into the time complexity and understand when Distribution Counting Sort is the optimal choice.
-🔗 Resources and References:
 
-Find all materials, resources, and references used in the implementation, providing a comprehensive learning experience.
+🔗 Resources and References:
+https://www.simplilearn.com/tutorials/data-structure-tutorial/counting-sort-algorithm#the_complexity_of_the_counting_sort_algorithm
+https://youtu.be/8uyB78HNR4M?si=p67Tw6NMpKQtAqRh
